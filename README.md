@@ -1,0 +1,175 @@
+AnanasHub is very OP and Powerful exploit for many places.
+Over 600+ FE Scripts
+In-Game Executor (Very shockingly, Serverside! 101% works with any script until it serveside (you may be kicked with 95% chance))
+Good design!
+No key-system!
+Free!!!!
+Backdoor scanner!! (basically means if it find it you will control the place on serverside with 100% chance of working)
+Manual game backdooring feature
+supported games:
+- 3008
+- A Dusty Trip
+- Ability Wars
+- All Blox Battles
+- Animal Race Simulator
+- Anime Heros Simulator
+- Anime Punching Simulator 2
+- Anime Speed Race
+- Ant War
+- Arsenal
+- Attack On Titan Freedom War
+- Admin RNG
+- Anime Card Battles
+- Anime Simulator
+- Anime Training RNG
+- Airsoft Battles
+- Baddie
+- Basket Ball Legends
+- Be Npc Or Die
+- Bedwars
+- Bee Swarm Simulator
+- Blade Ball
+- Blade Slayer
+- Block Mayhem
+- Block Tales
+- Welcome to Bloxburg
+- Blox Fruit
+- Break In
+- Break In 2
+- Brookhaven
+- Build A Boat For Treasure
+- Build A Boat With Blocks
+- Build A Bridge Simulator
+- Build A Raft Or Die
+- Boss Slayer
+- Boxing Beta
+- Cabin Crew Simulator
+- Car Crushers 2
+- Car Dealership Tycoon
+- Catch A Fish Simulator
+- Clover Retribution
+- Combat Warrior
+- Counter Blox
+- Cursed Arena
+- Car RNG
+- Criminality
+- Character RNG
+- Da Hood
+- Da Strike
+- Demon Fall
+- Doors
+- Driving Empire
+- Dungeon Quest
+- Dungeon RNG
+- Dress To Impress
+- Devas Of Creation
+- Dandy's World
+- Dingus
+- Eat All Blocks
+- Eat The World
+- Epic Mini Games
+- Evade
+- Evolution Simulator
+- Egg Empire 
+- Fabled Legacy
+- Flee The Facility
+- Fling Thing And People
+- Football Fusion 2
+- Frontlines
+- Fat Race
+- Fastest Typer Race
+- Funky Friday
+- Find The Flags (350)
+- Fortlines
+- Find the Planets [34]
+- Feet Simulator
+- Grand Piece Online
+- Gun Fight Arena
+- Gym League
+- Giant Survival!
+- Gun Grounds FFA
+- Highway Hooligans
+- Horror RNG
+- Hotel Elphant
+- Impossible Obby
+- Ice Fishing Simulator 
+- Jail Break
+- Jims RNG
+- Jujutsu Shenanigans
+- Kamehameha Simulator
+- KAT
+- King Legacy
+- Kill Noobs Simulator
+- Launch Into Space Simulator
+- Legends of speed
+- Lucky Block
+- Lumber Tycoon 2
+- Like or Pass
+- Mic Up
+- Monkey Raft
+- Murder Mystery 2
+- Murderers Vs Sheriffs Duels
+- Muscles Legends
+- Mining empire
+- Moto Trackday Project
+- Natural Disaster Survival
+- Ninja Legends
+- Neko Girl Survival
+- Pancake Battles
+- Pet Simulator 99
+- Phantom Force
+- Prison Life
+- Project Slayers
+- Pull A Sword
+- Push Up Battles
+- Pet Hatchers
+- Push-Up Training Simulator
+- Pressure
+- Pass The Bomb
+- Project Delta
+- Pooping Simulator
+- Pets Go
+- Race Clickers
+- Rebirth Champions X
+- Reborn As Swordman
+- Rivals
+- Ro Ghoul
+- Running Simulator
+- Royal High
+- RoCitizens
+- RED VS BLUE PLANE WARS!
+- Saber Battle Simulator
+- Scythe Simulator
+- Slap Battles
+- Slayer Corps
+- Sol's RNG
+- Specter 1
+- Starving Artists
+- Survive The Killer!
+- Swordmaster Simulator
+- super league soccer
+- SCP Roleplay
+- Slime Slaying Online RPG
+- School Line
+- Swim League
+- Taxi Boss
+- The Strongest Battlegrounds
+- Therapy
+- Titan Training Simulator
+- Tower Of Hell
+- TPS Street Soccer
+- Tycoon RNG
+- Type Soul
+- Tower of jumps
+- Tank Simulator
+- Timebomb Duels
+- Tha Bronx 2 💯
+- Underground War 2.0
+- Untitled Tag Game
+- Vehicles Legends
+- War Tycoon
+- Warrior Simulator
+- West Bound
+- Your Bizarre Adventure
+- Zombie Attack
+- 
