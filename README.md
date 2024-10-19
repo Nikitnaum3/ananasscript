@@ -1,11 +1,13 @@
 AnanasHub is very OP and Powerful exploit for many places.
-Over 600+ FE Scripts
-In-Game Executor (Very shockingly, Serverside! 101% works with any script until it serveside (you may be kicked with 95% chance))
+Over 600+ FE Scripts.
+In-Game Executor (Very shockingly, Serverside! 101% works with any script until it serveside (you may be kicked with 95% chance)).
 Good design!
 No key-system!
 Free!!!!
 Backdoor scanner!! (basically means if it find it you will control the place on serverside with 100% chance of working)
-Manual game backdooring feature
+Manual game backdooring feature.
+
+
 supported games:
 - 3008
 - A Dusty Trip
